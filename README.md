@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dias 👋
+Data Analyst | Python · SQL · Tableau | Based in Sukoharjo 🇮🇩
 
-<!--
-**diasalfynt/diasalfynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+I turn messy data into clear business decisions. 
+1 year experience in e-commerce and fintech analytics.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+| Project | Tools | Description |
+|---|---|---|
+| [Customer Churn](link) | Python, Sklearn | Prediksi churn dengan 87% accuracy |
+| [Sales Dashboard](link) | SQL, Tableau | Dashboard real-time untuk tim sales |
+| [Market Basket](link) | Python, Apriori | Analisis asosiasi produk supermarket |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages**: Python · SQL
+**Libraries**: Pandas · NumPy · Scikit-learn · Matplotlib  
+**BI Tools**: Tableau  
+**Database**: PostgreSQL · MySQL  
+**Other**: Git · Excel · dbt (basic)  
+
+## 📫 Let's Connect
+[LinkedIn](link) · [Portfolio Website](link) · [Email](mailto:)
